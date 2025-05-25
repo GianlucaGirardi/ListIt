@@ -1,0 +1,19 @@
+# Node/Expo
+node_modules/
+npm-debug.log
+.expo/
+.expo-shared/
+
+# IntelliJ/IDE
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+
+# Java/Maven
+target/
+*.log
+
+# Misc
+.env
