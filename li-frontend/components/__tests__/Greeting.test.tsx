@@ -1,6 +1,6 @@
 import React from "react";
 import { render } from "@testing-library/react-native";
-import Greeting from "../Greeting.tsx";
+import Greeting from "../Greeting";
 
 describe("Greeting Component", () => {
   it("renders the correct name", () => {
